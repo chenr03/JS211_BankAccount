@@ -1,0 +1,22 @@
+{
+  "name": "js211_bankaccount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenr03/JS211_BankAccount.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenr03/JS211_BankAccount/issues"
+  },
+  "homepage": "https://github.com/chenr03/JS211_BankAccount#readme",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
+}
